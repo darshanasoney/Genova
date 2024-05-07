@@ -1,0 +1,28 @@
+PODS:
+  - Cosmos (23.0.0)
+  - CountryList (1.1)
+  - IQKeyboardManager (6.5.12)
+  - MaterialTextField (1.0.1)
+
+DEPENDENCIES:
+  - Cosmos
+  - CountryList
+  - IQKeyboardManager
+  - MaterialTextField
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - CountryList
+    - IQKeyboardManager
+    - MaterialTextField
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  CountryList: ad58cd670c4ecab6bb014abebc12e63f619174b2
+  IQKeyboardManager: b1fd66ccf7a79095bdcc4a2735231586f744216e
+  MaterialTextField: f1a0786588e4d3610cb9bb62d2adbe9777cebbf9
+
+PODFILE CHECKSUM: e07c3bbd30a6a897aa4fc8ba88b6200e81667c28
+
+COCOAPODS: 1.12.1

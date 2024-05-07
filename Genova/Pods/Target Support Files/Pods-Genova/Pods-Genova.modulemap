@@ -1,0 +1,6 @@
+framework module Pods_Genova {
+  umbrella header "Pods-Genova-umbrella.h"
+
+  export *
+  module * { export * }
+}
